@@ -156,7 +156,7 @@ ul {
   letter-spacing: 0.02em;
   margin: 0 auto;
   width: 496px;
-  height: 120px;
+  max-height: 120px;
   max-width: 496px;
 }
 .order-btn {
